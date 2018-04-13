@@ -1,0 +1,21 @@
+
+header{
+    margin: 20px 0 20px 0;
+    background: #69305a;
+}
+.logo {
+    background: url(img/logo.png) center left no-repeat;
+    height: 65px;
+}
+body h1{
+    font-family: "Open Sans",arial,sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+    color: #69305a;
+    padding: 5px 5px 5px 15px;
+}
+
+.list-group {
+    width: 70%;
+    padding: 5px 5px 5px 15px;
+}
