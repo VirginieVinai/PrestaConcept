@@ -1,0 +1,102 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "dependencies": {
+    
+  }
+}
+
+[
+  {
+    "LASTNAME": "Fernandes",
+    "FIRSTNAME": "Leanna",
+    "BADGE": [
+      {
+        "Label": "Twig Code Contributor"
+      },
+      {
+        "Level": 1
+      }
+    ],
+  [
+    {
+      "Label": "Composer Documentation Contributor"
+    },
+    {
+      "Level": 1
+    }
+  ],
+  [
+    {
+      "Label": "SensioLabs Certified Symfony Developer (Advanced)"
+    },
+    {
+      "Level": 2
+    }
+  ],
+  [
+    {
+      "Label": "Doctrine Documentation Contributor"
+    },
+    {
+      "Level": 1
+    }
+  ],
+  [
+    {
+      "Label": "Attended a training on Symfony2 (level 3) at SensioLabs"
+    },
+    {
+      "Level": 2
+    }
+  ],
+  [
+    {
+      "Label": "Silex Code Contributor"
+    },
+    {
+      "Level": 1
+    }
+  ],
+  [
+    {
+      "Label": "Silex Documentation Contributor"
+    },
+    {
+      "Level": 1
+    }
+  ],
+  [
+    {
+      "Label": "Eight year membership"
+    },
+    {
+      "Level": 3
+    }
+  ],
+  [
+    {
+      "Label": "Seven year membership"
+    },
+    {
+      "Level": 3
+    }
+  ],
+  [
+    {
+      "Label": "Six year membership"
+    },
+    {
+      "Level": 3
+    }
+  ],
+  [
+    {
+      "Label": "Five year membership"
+    },
+    {
+      "Level": 3
+    }
+  ]
+  }
+]
